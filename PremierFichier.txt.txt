@@ -1,0 +1,1 @@
+Un premier test rapide sous GIT
